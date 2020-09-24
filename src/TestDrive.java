@@ -4,8 +4,4 @@ public class TestDrive {
         int a = 0;
     }
     //edit by Nik
-    
-    //changes from a branch
-
-    //commit from Intellij by NT attempt#1
 }
