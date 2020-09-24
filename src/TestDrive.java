@@ -9,6 +9,10 @@ public class TestDrive {
         int j = 6;
         //fresh edit by Nik
     }
+
+    static void m1(){
+        //new helper
+    }
     //edit by Nik
 }
 //requesting approval
